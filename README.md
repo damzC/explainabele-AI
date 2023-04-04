@@ -2,7 +2,8 @@
 This repository contains work on Explainable Artificial Intelligence on both Machine Learning and Deep Learning models
 
 ## 1. Extract Feature Relevance Extraction through Explainability of ML model
-* File: Feature_Relevance_Extraction_through_Explainability.ipynb
+* **File**: Feature_Relevance_Extraction_through_Explainability.ipynb
+
 This implementation takes a publicly available financial (bank) dataset from the UC Irvine Machine Learning Repository [link](https://archive.ics.uci.edu/ml/machine-learning-databases/00222/bank-additional.zip) and builds a machine learning classification model on this data. Using explainable AI (Shapley Additive Values method), the relevance of each of the features in the feature set are determined to understand, which features are important for a particular outcome. The details of the implementation are as follows:
 
 ### Dataset
